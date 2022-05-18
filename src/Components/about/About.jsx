@@ -1,6 +1,6 @@
 import React from "react";
 import "./About.css";
-import ME from "../../assets/Me.jpeg";
+import ME from "../../assets/me-sitting.jpeg";
 import { FaAward } from "react-icons/fa";
 import { VscFolderLibrary } from "react-icons/vsc";
 import { BiUser } from "react-icons/bi";
@@ -36,10 +36,16 @@ const About = () => {
             </article>
           </div>
           <p>
-            Lorem ipsum dolor sit, amet consectetur adipisicing elit. Ad eos
-            earum nihil fuga maiores distinctio, soluta numquam atque temporibus
-            ducimus dicta, quia sapiente et voluptate facilis corporis ratione
-            ab quis!
+            My name is Timothy Tyler DeHof. In 2011, I graduated from the
+            University of North Florida with a Bachelor of Science degree in
+            Mechanical engineering. Even though I have a Mechanical Engineering
+            degree and seven years of engineering work experience, Tech has
+            always been an interest to me and my new professional career focus.
+            This year I took the plunge and attended a rigorous BootCamp and
+            made a career change where I developed applications for the web. I
+            believe my years of mechanical engineering experience, combined with
+            what I have learned about software development, is something I think
+            I will be a great benefit to offer to a company.
           </p>
           <a href="#contact" className="btn btn-primary">
             Let's Talk

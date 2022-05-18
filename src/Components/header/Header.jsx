@@ -1,7 +1,7 @@
 import React from "react";
 import "./Header.css";
 import CTA from "./CTA";
-import ME from "../../assets/Me-removebg-preview.png";
+import ME from "../../assets/me_niceShirt-removeBg-preview_ml_resize_x6.png";
 import HeaderSocial from "./HeaderSocials";
 const Header = () => {
   return (
