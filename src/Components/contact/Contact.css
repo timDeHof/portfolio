@@ -41,6 +41,7 @@ form {
     display: flex;
     flex-direction: column;
     gap: 1.2rem;
+    color: var(--color-white);
 }
 
 input, textarea {
